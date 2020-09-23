@@ -14,7 +14,7 @@ public static void PermutatioData(String str,String ans) {
 	}
 }
 	public static void main(String[] args) {
-		PermutatioData("ab","");
+		PermutatioData("abc","");
 
 	}
 

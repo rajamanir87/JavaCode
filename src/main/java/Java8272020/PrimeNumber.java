@@ -23,6 +23,6 @@ public class PrimeNumber {
 		
 	}
 	public static void main(String[] args) {
-		prime(39);
+		prime(19);
 	}
 }
