@@ -1,7 +1,6 @@
 package Java7102020;
 
 public class GivenStringContainsAnyDigit  {
-
 	static void containsAnyDigit(String str) throws NullPointerException {
 		if(str==null) {
 			System.out.println("It is not valid string");

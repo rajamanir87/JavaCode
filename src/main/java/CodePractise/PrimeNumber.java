@@ -11,7 +11,6 @@ public class PrimeNumber {
 				break;
 				
 			}
-			
 		}
 		if(!status) {
 			System.out.println("it is Prime no");

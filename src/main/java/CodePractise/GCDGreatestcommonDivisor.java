@@ -19,7 +19,6 @@ public class GCDGreatestcommonDivisor {
 		return GCD(a,b-a);
 		
 	}
-
 	public static void main(String[] args) {
 		System.out.println(GCD(98,56));
 	}
