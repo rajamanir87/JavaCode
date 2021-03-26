@@ -15,6 +15,11 @@ public static void PermutatioData(String str,String ans) {
 }
 	public static void main(String[] args) {
 		PermutatioData("abc","");
+		
+		String a="abcd";
+		
+		System.out.println(a.charAt(2));
+		
 
 	}
 
