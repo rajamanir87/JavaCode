@@ -11,7 +11,6 @@ public class Dealockimpl {
 		Thread1 t2=new Thread1(s1,s2);
 		t2.start();
 		Utils.sleep(2000);
-		
 	}
 
 }

@@ -13,7 +13,6 @@ public class shared {
 		System.out.println("Test2 begin");
 		Utils.sleep(1000);
 		
-			System.out.println("Test2 end");
-		
+			System.out.println("Test2 end");		
 }
 }
